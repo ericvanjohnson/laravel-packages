@@ -1,0 +1,12 @@
+{
+    "name": "diegodev/slack-planio",
+    "description": "Slack endpoint to look up tickets in  your Plan.io Project Management System",
+    "authors": [
+        {
+            "name": "Eric Van Johnson",
+            "email": "eric@diegodev.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
